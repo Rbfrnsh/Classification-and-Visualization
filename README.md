@@ -14,3 +14,5 @@ Here are images of 6 abnormal fetal heart conditions and 1 NORMAL fetal heart im
 - ASD
 <img width="601" alt="image" src="https://github.com/Rbfrnsh/Classification-and-Visualization/assets/89909357/51dea426-3dbf-4de7-a4bb-9359a452ef03">
 
+For the results presented on GitHub, only the CNN architecture with custom layers was utilized. Hyperparameter tuning was performed with Epochs 100, Batch Size 8, and Learning Rate 0.0001. Through training and evaluation, accuracy, sensitivity, and specificity results of 100% were achieved. These outcomes demonstrate that the model performs excellently in classifying image data.
+
