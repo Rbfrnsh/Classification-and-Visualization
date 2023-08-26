@@ -16,3 +16,5 @@ Here are images of 6 abnormal fetal heart conditions and 1 NORMAL fetal heart im
 
 For the results presented on GitHub, only the CNN architecture with custom layers was utilized. Hyperparameter tuning was performed with Epochs 100, Batch Size 8, and Learning Rate 0.0001. Through training and evaluation, accuracy, sensitivity, and specificity results of 100% were achieved. These outcomes demonstrate that the model performs excellently in classifying image data.
 
+then here are the confusion Matrix for the model Evaluation
+<img width="256" alt="image" src="https://github.com/Rbfrnsh/Classification-and-Visualization/assets/89909357/99266abd-e761-40b3-aae7-463363f482f7">
